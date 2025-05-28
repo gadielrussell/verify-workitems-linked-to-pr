@@ -1,5 +1,5 @@
 # Verify Work Items are Properly Linked to PR (PowerShell) Script
-_This PowerShell script, can be added executed by a Pull Request Trigger in Azure DevOps to validate that Work Items have been properly updated and linked to a PR._
+_This PowerShell script, can be added executed by a Pull Request Trigger in Azure DevOps to validate that Work Items have been properly updated and linked to a PR. Information on Azure DevOps PR Triggers can be found here: https://learn.microsoft.com/en-us/azure/devops/pipelines/repos/azure-repos-git?view=azure-devops&tabs=yaml#pr-triggers_
 
 ## NOTES
 Check params to make sure they are accurate and provided properly during script execution.
