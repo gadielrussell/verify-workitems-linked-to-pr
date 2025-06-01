@@ -19,3 +19,7 @@ Ensure a valid Personal Access Token (PAT) is available as an environment variab
 This Personal Access Token needs to have Packaging (Read) and Work Items (Read) Grants in order to access Work Items associated with Pull Requests.
 
 Modify as needed!
+
+## 📄 License
+
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
